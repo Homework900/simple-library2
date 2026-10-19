@@ -1,0 +1,13 @@
+{
+  "books": [
+    {
+      "ID": 1,
+      "Title": "1984",
+      "Author": "1949",
+      "Year": 1949,
+      "IsIssued": false,
+      "ReaderID": null
+    }
+  ],
+  "readers": []
+}
